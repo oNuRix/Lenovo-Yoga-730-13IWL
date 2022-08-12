@@ -17,7 +17,7 @@
 
 ## Current Status
 
-- **Keyboard won't work in OpencorePicker, I don't know why**
+- **Physical keyboard won't work in OpencorePicker, I don't know why. Usb keyboard work**
 - **Fingerprint sensor** is not working (never will work)**
 - Everything else works well
 - Screen rotation work on 90° and 180°
