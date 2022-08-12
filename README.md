@@ -25,7 +25,7 @@
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
 ## Misc after install:
-- [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) (Has issues with boot logo):
+- [Enable HiDPI](https://github.com/xzhih/one-key-hidpi) :
 ```bash
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 ```
