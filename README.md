@@ -10,7 +10,7 @@
 | Memory              | 8GB 2400MMHz soldered |
 | NVME                | M.2 Nvme SK Hynix HFS256GD9TNG-62A0A |
 | Integrated Graphics | Intel HD Graphics 620                     |
-| Monitor             | FHD 1920x1080 (13.3 inch) |
+| Monitor             | FHD 1920x1080 touchscreen (13.3 inch) |
 | Sound Card          | Realtek ALC236           |
 | Wireless Card       | Intel 9260NGW |
 
@@ -20,6 +20,7 @@
 - **Keyboard won't work in OpencorePicker, I don't know why**
 - **Fingerprint sensor** is not working (never will work)**
 - Everything else works well
+- Screen rotation work on 90° and 180°
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
 ## Misc after install:
