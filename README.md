@@ -12,7 +12,7 @@
 | Integrated Graphics | Intel HD Graphics 620                     |
 | Monitor             | FHD 1920x1080 touchscreen (13.3 inch) |
 | Sound Card          | Realtek ALC236           |
-| Wireless Card       | Intel 9260NGW |
+| Wireless Card       | Intel AX200NGW |
 
 
 ## Current Status
