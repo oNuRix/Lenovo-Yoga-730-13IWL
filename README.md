@@ -21,7 +21,7 @@
 - **Fingerprint sensor** is not working (never will work)**
 - Everything else works well
 - Screen rotation work on 90° and 180°
-- CFGLock can be disable in advances Bios settings
+- CFGLock can be disable in advances Bios settings (better not!)
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
 ## Misc after install:
