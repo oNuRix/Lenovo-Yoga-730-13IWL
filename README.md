@@ -18,9 +18,10 @@
 ## Current Status
 
 - **Fingerprint sensor is not working (never will work)**
-- Everything else works well except Airdrop
+- Everything else works well except Airdrop, right mouse click
 - Screen rotation work on 90°(only 1080x1920) and 180°(only 1920x1080)
-- CFGLock can be disable in advances Bios settings (better not!)
+- CFGLock can be disable for better battery in advances Bios settings (your own risk!)
+- Touchscreen (TPD1) can be disable for better battery in advances Bios settings
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
 ## Misc after install:
@@ -34,5 +35,18 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 - Disable Security -> Intel SGX -> Intel SGX Controller
 - Disable Security -> Secure Boot
 - Switch RAID to AHCI in Configuration -> SATA Controller Mode
+
+## Advances Bios 
+- F2 Boot in bios and power off
+- Press one after one
+- F1, 1, Q, A, Y
+- F2, 2, W, S, X
+- F3, 3, E, D, C
+- F4, 4, R, F, V
+- F5, 5, T, G, B
+- F6, 6, Z, H, N
+- F2 Boot in Bios, Can see advances section now.
+- **depends your's keybord input** (Simply F1 too bottom)
+
 
 **Thanks @dragonflylee and @OstapStad for their efi**
