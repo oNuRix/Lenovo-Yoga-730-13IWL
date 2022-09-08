@@ -20,7 +20,7 @@
 - **Fingerprint sensor is not working (never will work)**
 - Everything else works well except Airdrop, right mouse click
 - Screen rotation work on 90°(only 1080x1920) and 180°(only 1920x1080)
-- CFGLock can be disable for better battery in advances Bios settings (your own risk!)
+- CFGLock can be disable in advances Bios settings (your own risk!)
 - Touchscreen (TPD1) can be disable for better battery in advances Bios settings
 - Ensure to edit the **config.plist** and add valid  **PlatformInfo Generic** and **SMBIOS** values
 
