@@ -45,6 +45,7 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/mast
 - F4, 4, R, F, V
 - F5, 5, T, G, B
 - F6, 6, Z, H, N
+- Power on 
 - F2 Boot in Bios, Can see advances section now.
 - **depends your's keybord input** (Simply F1 too bottom)
 
