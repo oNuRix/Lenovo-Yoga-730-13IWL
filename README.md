@@ -1,5 +1,7 @@
 # Lenovo Yoga 730-13iwl Opencore 
 <img width="579" alt="macos" src="https://user-images.githubusercontent.com/40405226/187765495-da8a41a5-531f-4c6d-a06a-61c9cdbfbf46.png">
+![image](https://user-images.githubusercontent.com/40405226/197857582-3911dda2-0be8-4d26-bcaa-b6c05cc9dcae.png)
+
 
 ## Configuration
 
