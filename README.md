@@ -1,3 +1,5 @@
+# No more have this device
+
 # Lenovo Yoga 730-13iwl Opencore 
 <img width="579" alt="macos" src="https://user-images.githubusercontent.com/40405226/197857582-3911dda2-0be8-4d26-bcaa-b6c05cc9dcae.png">
 
